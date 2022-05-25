@@ -1,0 +1,20 @@
+{
+    "name": "simplephper/accuracy",
+    "description": "精度计算",
+    "type": "1",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Simplephper\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "simplephper"
+        }
+    ],
+    "minimum-stability": "dev"
+}
