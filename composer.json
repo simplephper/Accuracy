@@ -5,7 +5,7 @@
     "require": {
         "php": ">=5.6"
     },
-    "license": "Apache",
+    "license": "",
     "autoload": {
         "psr-4": {
             "Simplephper\\": "src"
